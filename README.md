@@ -9,7 +9,7 @@
 <p align="justify">Profissional de TI +14 anos de experiência ambientes redes e infraestrutura.
  Graduado em Ciências da Computação pelo UNICARIOCA,  | Telecomunicações - ITILv3 | CISCO CCNA | ALGOSEC ASMS | OCI Foundations | Membro ANPPD® | LPIC 101-500.
 <br>
- Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/carlos1alv/">(@carlos1alv)</a>.</p>
+ Apaixonado por tecnologia e esportes ( Amo correr), alguns dos meus hobbies são assistir, ler e estar com a familia e amigos. <a href="https://www.instagram.com/carlos1alv/">(@carlos1alv)</a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
@@ -26,13 +26,5 @@
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
 <br>
 
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
 
 </details>
